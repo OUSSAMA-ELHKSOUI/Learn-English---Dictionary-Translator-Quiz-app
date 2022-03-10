@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482907507054",
+    "project_id": "learnenglish-dtmwordswithquiz",
+    "storage_bucket": "learnenglish-dtmwordswithquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482907507054:android:fa6b87e3439cf1af64597f",
+        "android_client_info": {
+          "package_name": "oussamaelkhs.learnenglish_dtmwordswithquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482907507054-rd148pteii6trv92na1h7g93ogkk89pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhrtqsC--lYqibKhWxlV5QXzzDxm5B6vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482907507054-rd148pteii6trv92na1h7g93ogkk89pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
